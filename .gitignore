@@ -2,3 +2,4 @@ node_modules/
 reflection-journals/
 project-delivery/
 ignore-repo/
+.env
